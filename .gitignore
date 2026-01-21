@@ -1,0 +1,9 @@
+.env
+.virtualenv
+.logs/
+.variables/
+__pycache__/
+# .ssh_tunnel
+file_versions
+mage_data/
+mage-ai.db

@@ -1,0 +1,6 @@
+.virtualenv/
+venv/
+.venv/
+mage_data/
+__pycache__/
+.git/
